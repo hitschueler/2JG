@@ -47,6 +47,6 @@ public class ThirdFrame extends Frame{
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		new ThirdFrame("leeres Fenster");
+		new ThirdFrame("leeres Fenster mit Änderung");
 	}
 }
